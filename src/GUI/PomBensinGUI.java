@@ -7,7 +7,8 @@ package GUI;
 
 /**
  *
- * @author Administrator
+ * @author MDena
+ * https://github.com/WrongCode-01?tab=repositories
  */
 public class PomBensinGUI extends javax.swing.JFrame {
 

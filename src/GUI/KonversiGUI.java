@@ -11,7 +11,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Administrator
+ * @author MDena
+ * https://github.com/WrongCode-01?tab=repositories
  */
 public class KonversiGUI extends javax.swing.JFrame {
 
